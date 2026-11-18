@@ -6,7 +6,7 @@ GitSummarizer is an AI-powered web application that turns any public GitHub repo
 
 ## 🌐 Live Demo
 
-**👉 [Open GitSummarizer](https://your-app-name.vercel.app)**
+**👉 [Open GitSummarizer](https://gitsummarizer-mauve.vercel.app)**
 
 <!-- Replace https://your-app-name.vercel.app (here and in the Deployment section) with your real deployed frontend URL. -->
 
